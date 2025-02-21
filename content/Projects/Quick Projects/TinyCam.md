@@ -1,1 +1,1 @@
-A [[Quick Projects]]
+CARBON is a [[Quick Projects|"Quick Project"]].
