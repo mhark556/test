@@ -5,7 +5,7 @@ One [[Programming Experiments|Programming Project]] I have worked on is an algor
 
 **Brocard's Problem:** 
 According to Wikipedia, "Brocard's Problem is a problem in mathematics that seeks integer values of n such that n! + 1 is a perfect square, where n! is the factorial. Only three values of n are known - 4, 5, 7 and it is not known whether there are any more".
-![[Pasted image 20250220163005.png]]
+![[brocards.png]]
 
 **My Theory**
 Reverse Engineering Using $Γ^{-1}$
