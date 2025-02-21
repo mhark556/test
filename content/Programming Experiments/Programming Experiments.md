@@ -2,7 +2,7 @@
 node_size: "5"
 dg-publish: "true"
 ---
-[[Matthew Harkey|I]] like to program different projects with the goal of solving a variety of problems. 
+[[About Me|I]] like to program different projects with the goal of solving a variety of problems. 
 
 **Table of Contents:** 
 1. [[Prime Numbers]]
